@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SE_Sesio1_RenderVideo">
+</Property><Property Name="Solution File" Value="C:\Users\Victor\Desktop\SE_Sesio1_RenderVideo\SE_Sesio1_RenderVideo.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Victor\Desktop\SE_Sesio1_RenderVideo\SE_Sesio1_RenderVideo.suo">
+</Property><Property Name="Date" Value="domingo, 04 de marzo de 2012">
+</Property><Property Name="Time" Value="16:59">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SE_Sesio1_RenderVideo.sln" Description="File successfully backed up as C:\Users\Victor\Desktop\SE_Sesio1_RenderVideo\SE_Sesio1_RenderVideo.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="SE_Sesio1_RenderVideo.suo" Description="File successfully backed up as C:\Users\Victor\Desktop\SE_Sesio1_RenderVideo\SE_Sesio1_RenderVideo.suo.old">
+</Event><Event ErrorLevel="0" Project="SE_Sesio1_RenderVideo" Source="SE_Sesio1_RenderVideo\SE_Sesio1_RenderVideo.vcproj" Description="Converting project file 'C:\Users\Victor\Desktop\SE_Sesio1_RenderVideo\SE_Sesio1_RenderVideo\SE_Sesio1_RenderVideo.vcproj'.">
+</Event><Event ErrorLevel="1" Project="SE_Sesio1_RenderVideo" Source="SE_Sesio1_RenderVideo\SE_Sesio1_RenderVideo.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="SE_Sesio1_RenderVideo" Source="SE_Sesio1_RenderVideo\SE_Sesio1_RenderVideo.vcproj" Description="Done converting to new project file 'C:\Users\Victor\Desktop\SE_Sesio1_RenderVideo\SE_Sesio1_RenderVideo\SE_Sesio1_RenderVideo.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="SE_Sesio1_RenderVideo" Source="SE_Sesio1_RenderVideo\SE_Sesio1_RenderVideo.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SE_Sesio1_RenderVideo.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SE_Sesio1_RenderVideo.sln" Description="Converted">
+</Event></UpgradeLog>
